@@ -3,7 +3,7 @@
     Website Name: Mumair Portfolio
   </li>
   <li>
-    Live link: https://shop-sphere-client-zeta.vercel.app/
+    Live link: https://mumair-portfolio-961.web.app
   </li>
 </ul>
 
