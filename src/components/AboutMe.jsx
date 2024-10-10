@@ -34,22 +34,6 @@ const AboutMe = () => {
             <div className="relative w-full">
               <progress
                 className="progress w-full h-4 rounded-lg custom-progress"
-                value="90"
-                max="100"
-              ></progress>
-              <div
-                className="absolute top-1/2 transform -translate-y-1/2 w-8 h-8 ml-[13px] mt-[-3px] border-[#FD6F00] border-2 border-solid rounded-full"
-                style={{ left: "calc(90% - 16px)" }}
-              ></div>
-            </div>
-          </div>
-          <div className="space-y-1">
-            <h1 className="font-poppins text-2xl dark:text-white font-semibold text-left">
-              Website Design
-            </h1>
-            <div className="relative w-full">
-              <progress
-                className="progress w-full h-4 rounded-lg custom-progress"
                 value="85"
                 max="100"
               ></progress>
@@ -61,23 +45,23 @@ const AboutMe = () => {
           </div>
           <div className="space-y-1">
             <h1 className="font-poppins text-2xl dark:text-white font-semibold text-left">
-              App Design
+              Website Design
             </h1>
             <div className="relative w-full">
               <progress
                 className="progress w-full h-4 rounded-lg custom-progress"
-                value="95"
+                value="80"
                 max="100"
               ></progress>
               <div
                 className="absolute top-1/2 transform -translate-y-1/2 w-8 h-8 ml-[13px] mt-[-3px] border-[#FD6F00] border-2 border-solid rounded-full"
-                style={{ left: "calc(95% - 16px)" }}
+                style={{ left: "calc(80% - 16px)" }}
               ></div>
             </div>
           </div>
           <div className="space-y-1">
             <h1 className="font-poppins text-2xl dark:text-white font-semibold text-left">
-              Graphic Design
+              App Design
             </h1>
             <div className="relative w-full">
               <progress
@@ -88,6 +72,22 @@ const AboutMe = () => {
               <div
                 className="absolute top-1/2 transform -translate-y-1/2 w-8 h-8 ml-[13px] mt-[-3px] border-[#FD6F00] border-2 border-solid rounded-full"
                 style={{ left: "calc(90% - 16px)" }}
+              ></div>
+            </div>
+          </div>
+          <div className="space-y-1">
+            <h1 className="font-poppins text-2xl dark:text-white font-semibold text-left">
+              Graphic Design
+            </h1>
+            <div className="relative w-full">
+              <progress
+                className="progress w-full h-4 rounded-lg custom-progress"
+                value="85"
+                max="100"
+              ></progress>
+              <div
+                className="absolute top-1/2 transform -translate-y-1/2 w-8 h-8 ml-[13px] mt-[-3px] border-[#FD6F00] border-2 border-solid rounded-full"
+                style={{ left: "calc(85% - 16px)" }}
               ></div>
             </div>
           </div>
